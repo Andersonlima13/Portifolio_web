@@ -90,20 +90,19 @@ function Footer() {
       <FooterWrapper>
         <Logo>Rishav Chanda</Logo>
         <Nav>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href="#about">Sobre</NavLink>
+          <NavLink href="#skills">Habilidades</NavLink>
+          <NavLink href="#experience">Experiência</NavLink>
+          <NavLink href="#projects">Projetos</NavLink>
+          <NavLink href="#education">Educação</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Rishav Chanda. All rights reserved.
+          &copy; Anderson Lima, Direitos Reservados.
         </Copyright>
 
       </FooterWrapper>

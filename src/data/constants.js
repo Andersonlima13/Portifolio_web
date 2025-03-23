@@ -106,7 +106,7 @@ export const skills = [
     ],
   },
   {
-    title: "Android",
+    title: "Segurança da informação",
     skills: [
       {
         name: "Java",
