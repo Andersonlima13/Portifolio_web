@@ -23,27 +23,27 @@ const Navbar = () => {
           }} />
         </MobileIcon>
         <NavItems>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href='#skills'>Skills</NavLink>
-          <NavLink href='#experience'>Experience</NavLink>
-          <NavLink href='#projects'>Projects</NavLink>
-          <NavLink href='#education'>Education</NavLink>
+          <NavLink href="#about">Sobre</NavLink>
+          <NavLink href='#skills'>Habilidades</NavLink>
+          <NavLink href='#experience'>Experiência</NavLink>
+          <NavLink href='#projects'>Projetos</NavLink>
+          <NavLink href='#education'>Educação</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
+          <GitHubButton href={Bio.github} target="_blank">Github</GitHubButton>
         </ButtonContainer>
         {
-          isOpen &&
+          isOpen && 
           <MobileMenu isOpen={isOpen}>
             <MobileLink href="#about" onClick={() => {
               setIsOpen(!isOpen)
-            }}>About</MobileLink>
+            }}>Sobre</MobileLink>
             <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Skills</MobileLink>
+            }}>Habilidades</MobileLink>
             <MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Experience</MobileLink>
+            }}>Experiência</MobileLink>
             <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
