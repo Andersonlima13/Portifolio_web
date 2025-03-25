@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Anderson Lima</Logo>
         <Nav>
           <NavLink href="#about">Sobre</NavLink>
           <NavLink href="#skills">Habilidades</NavLink>

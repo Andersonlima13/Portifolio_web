@@ -147,7 +147,7 @@ const Contact = () => {
         <Title>Contato</Title>
         <Desc>Entre em contato comigo para projetos ou oportunidades!</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
-          <ContactTitle>Email Me 🚀</ContactTitle>
+          <ContactTitle>Contate comigo!</ContactTitle>
           <ContactInput placeholder="Seu Email" name="from_email" />
           <ContactInput placeholder="Nome" name="from_name" />
           <ContactInput placeholder="Assunto" name="subject" />
@@ -158,8 +158,8 @@ const Contact = () => {
           open={open}
           autoHideDuration={6000}
           onClose={()=>setOpen(false)}
-          message="Email sent successfully!"
-          severity="success"
+          message="E-mail enviado!"
+          severity="successo"
         />
       </Wrapper>
     </Container>
