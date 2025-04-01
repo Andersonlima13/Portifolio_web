@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio! Aqui você encontra meus projetos, habilidades e um pouco sobre minha trajetória como desenvolvedor.
 
-🔗 **Acesse o portfólio:** [Clique aqui](portifolio-web-eosin.vercel.app)
+🔗 **Acesse o portfólio:** [Clique aqui](https://portifolio-web-eosin.vercel.app)
 
 ## 🛠 Tecnologias utilizadas
 - React.js
