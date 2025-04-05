@@ -257,7 +257,7 @@ export const projects = [
     title: "Buscador de logins",
     date: "Dez 2023 - Fev 2023",
     description:
-      "Construi uma aplicação que resolveu o problema de acessos a credenciais de alunos do colégio vila, possibilitando a busca via aplicação web para cada acesso a plataformas, possibilitando que mantenhamos uma base de acesso atualizada. (Aplicação de demonstração usa uma base de dados fictícia, para fins de teste: Login de acesso : teste@teste.com, senha: teste) ",
+      "Construi uma aplicação que resolveu o problema de acessos a credenciais de alunos do colégio vila, possibilitando a busca via aplicação web para cada acesso a plataformas, possibilitando que mantenhamos uma base de acesso atualizada. (Aplicação de demonstração usa uma base de dados fictícia, para fins de teste: Login de acesso : admin@teste.com, senha: admin) ",
     image:
       "https://raw.githubusercontent.com/Andersonlima13/Portifolio_web/refs/heads/main/src/images/buscador.png",
     tags: [
@@ -271,8 +271,8 @@ export const projects = [
 
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Andersonlima13/buscadordelogins_demo",
+    webapp: "https://buscadordelogins.vercel.app",
   },
   {
     id: 0,
@@ -284,8 +284,8 @@ export const projects = [
       "https://raw.githubusercontent.com/Andersonlima13/Portifolio_web/refs/heads/main/src/images/controlefinanceiro.png",
     tags: ["Angular", "JavaScript", "Node Js", "TypeScript", "Java", "Springboot","FireBase", "Tailwind"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/Andersonlima13/imersao-angular.git",
+    webapp: "",
     
   },
   {
