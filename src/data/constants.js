@@ -6,7 +6,7 @@ export const Bio = {
     "Programador",
   ],
   description:
-    "Tenho 21 anos e estou na área de desenvolvimento desde os 18, possuo experiência principalmente com desenvolvimento web em javascript/node, php/laravel e Mysql como banco de dados, autando no front-end e back-end",
+    "Atuo como desenvolvedor freelancer há 3 anos, focado em oferecer soluções responsivas e escaláveis para web. Possuindo vasta experiência em diversos segmentos.",
   github: "https://github.com/andersonlima13",
   resume:
     "https://drive.google.com/file/d/1uPyBVLWUIqsAZM7YZEY6PNY-i5NN0e8q/view?usp=sharing",
