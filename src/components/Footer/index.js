@@ -102,7 +102,6 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; Anderson Lima, Todos os direitos reservados
         </Copyright>
 
       </FooterWrapper>
